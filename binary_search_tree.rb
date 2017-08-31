@@ -18,8 +18,8 @@ class BinarySearchTree
     end
   end
 
-  def initialize
-    @root = nil
+  def initialize(v)
+		@root = Node.new(v)
   end
 
   def print_inorder(node=@root)
