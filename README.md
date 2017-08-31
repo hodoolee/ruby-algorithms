@@ -12,6 +12,8 @@ Open your Terminal/Command Line. Navigate to the directory where your version wi
 ```
 
 ## List of algorithms 
-1. Binary Search Tree
+* BST
+* AVL Tree
+* Merge Sort
 
 
