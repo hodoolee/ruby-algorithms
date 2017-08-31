@@ -43,10 +43,6 @@ class BinarySearchTree
     end
   end
 
-  def is_balanced?(node=@root)
-    check_height(node) == -1 ? false : true
-  end
-
   def search(value, node=@root)
     return false if node.nil? # base case
 
