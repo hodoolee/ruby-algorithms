@@ -2,7 +2,7 @@ def merge_sort(array)
   # base case
   return array if array.size == 1
 
-  # find the middle point for recursvie calls of left and right array
+  # find the middle point
   middle = array.size / 2
 
   # recursive calls
