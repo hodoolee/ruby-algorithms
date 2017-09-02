@@ -15,10 +15,10 @@ end
 
 def merge(left, right)
   array_sorted = []
-
+  
   # 왼쪽과 오른쪽의 첫번째 element를 비교하여
   # 작은 숫자부터 array_sorted에 추가한다.
-  # 추가된 숫자는 해당 리스트에서 제거도니다.
+  # 추가된 숫자는 해당 리스트에서 제거된다.
   while left.any? && right.any?
     if left.first >= right.first
       array_sorted << right.shift
