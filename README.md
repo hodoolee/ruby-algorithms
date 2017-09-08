@@ -12,4 +12,5 @@ This is my implementation of the data structure with Ruby.
 - tree
   - avl_tree.rb
   - binary_search_tree.rb
+  - heap.rb
 
