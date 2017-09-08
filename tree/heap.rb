@@ -29,7 +29,7 @@ end
 def build_max_heap(array)
   # array.size / 2 => last index of non-leaf
   # leaf starts at the index of floor(array.size / 2) + 1
-	(array.size/2).downto(1).each do |i|
+  (array.size/2).downto(1).each do |i|
     max_heapify(array, i)
   end
 
