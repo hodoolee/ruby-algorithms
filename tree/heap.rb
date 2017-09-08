@@ -2,8 +2,8 @@ def max_heapify(array, i)
   l = (2*i)
   r = (2*i)+1
 	
-	# we should subtract since given array includes 'nil' at position 0
-	heap_size = array.size - 1
+  # we should subtract since given array includes 'nil' at position 0
+  heap_size = array.size - 1
 
   # l <= heap_size condition ensures that the left child exists
   if l <= heap_size && array[l] > array[i]
