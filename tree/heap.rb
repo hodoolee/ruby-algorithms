@@ -23,7 +23,7 @@ def max_heapify(array, i)
     max_heapify(array, largest)
   end
 	
-	return array
+  return array
 end
 
 def build_max_heap(array)
@@ -33,7 +33,7 @@ def build_max_heap(array)
     max_heapify(array, i)
   end
 
-	return array
+  return array
 end
 
 array = [nil, 5, 10, 1, 20, 3, 11, 100]
