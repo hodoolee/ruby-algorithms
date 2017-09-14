@@ -6,6 +6,7 @@ This is my implementation of the data structure with Ruby.
 - queue
   - priority_queue.rb
 - sort
+  - insertion_sort.rb
   - merge_sort.rb
   - quick_sort.rb
   
