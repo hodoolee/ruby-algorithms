@@ -4,6 +4,7 @@ This is my implementation of the data structure with Ruby.
 #### Data Structures
 - Arrays
 - Stacks
+  - balanced_parentheses.rb
 
 #### Sorting
 - merge_sort.rb
