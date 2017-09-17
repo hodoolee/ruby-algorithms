@@ -1,9 +1,9 @@
 # Algorithms written in ruby
 This is my implementation of the data structure with Ruby.
 
-#### Data Structures
-- [Arrays](https://github.com/hodoolee/ruby-algorithms/tree/master/data-structures/arrays)
-- [Stacks](https://github.com/hodoolee/ruby-algorithms/tree/master/data-structures/stacks)
+#### [Data Structures](https://github.com/hodoolee/ruby-algorithms/tree/master/data-structures)
+- Arrays
+- Stacks
   - balanced_parentheses.rb
 
 #### [Sorting](https://github.com/hodoolee/ruby-algorithms/tree/master/sorting)
